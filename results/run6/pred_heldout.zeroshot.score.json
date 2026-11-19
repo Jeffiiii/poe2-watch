@@ -1,0 +1,52 @@
+{
+ "bar_name": {
+  "n": 2,
+  "acc": 1.0,
+  "majority": 0.0
+ },
+ "bar_present": {
+  "n": 89,
+  "acc": 0.843,
+  "majority": 0.775
+ },
+ "died": {
+  "n": 89,
+  "acc": 1.0,
+  "majority": 1.0
+ },
+ "levelled": {
+  "n": 89,
+  "acc": 1.0,
+  "majority": 1.0
+ },
+ "life_trend": {
+  "n": 80,
+  "acc": 0.887,
+  "majority": 1.0
+ },
+ "mana_trend": {
+  "n": 76,
+  "acc": 0.434,
+  "majority": 0.75
+ },
+ "objective": {
+  "n": 63,
+  "acc": 0.492,
+  "majority": 0.0
+ },
+ "totems": {
+  "n": 75,
+  "acc": 0.253,
+  "majority": 0.4
+ },
+ "zone_name": {
+  "n": 75,
+  "acc": 0.52,
+  "majority": 0.0
+ },
+ "zone_type": {
+  "n": 75,
+  "acc": 0.76,
+  "majority": 0.68
+ }
+}

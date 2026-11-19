@@ -1,0 +1,11 @@
+epoch 1 step 1/355 loss 1.412 tokens 2358 0.6 min
+epoch 1 step 10/355 loss 1.361 tokens 2618 5.8 min
+epoch 1 step 20/355 loss 1.087 tokens 2290 11.6 min
+epoch 1 step 30/355 loss 0.950 tokens 2249 17.4 min
+epoch 1 step 40/355 loss 0.763 tokens 2393 23.1 min
+epoch 1 step 50/355 loss 0.936 tokens 2561 29.0 min
+epoch 1 step 60/355 loss 0.750 tokens 2776 34.3 min
+epoch 1 step 70/355 loss 0.777 tokens 2721 39.6 min
+epoch 1 step 80/355 loss 0.572 tokens 2496 45.1 min
+epoch 1 step 90/355 loss 0.681 tokens 2590 50.4 min
+epoch 1 step 100/355 loss 0.692 tokens 2594 55.6 min

@@ -1,0 +1,37 @@
+{
+ "bar_name": {
+  "n": 40,
+  "acc": 0.85,
+  "majority": 0.0
+ },
+ "bar_present": {
+  "n": 150,
+  "acc": 0.853,
+  "majority": 0.527
+ },
+ "died": {
+  "n": 150,
+  "acc": 0.96,
+  "majority": 1.0
+ },
+ "levelled": {
+  "n": 150,
+  "acc": 0.967,
+  "majority": 0.92
+ },
+ "life_trend": {
+  "n": 148,
+  "acc": 0.676,
+  "majority": 0.878
+ },
+ "mana_trend": {
+  "n": 113,
+  "acc": 0.655,
+  "majority": 0.92
+ },
+ "zone_type": {
+  "n": 134,
+  "acc": 0.127,
+  "majority": 0.925
+ }
+}

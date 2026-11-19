@@ -1,0 +1,17 @@
+# secrets and environment
+.env
+.venv/
+__pycache__/
+
+# audio cut from recordings and third-party sound files stay local; only the detector weights are kept
+alert_sounds/**
+!alert_sounds/**/
+!alert_sounds/ingame/alert_cnn.pt
+
+# phone / wearable ingest relay (separate line of work)
+relay/
+
+# raw build exports and the passive-tree dump (the cards made from them are kept)
+build_cards/*.pob.txt
+build_cards/*.pob.xml
+build_cards/tree_*.json

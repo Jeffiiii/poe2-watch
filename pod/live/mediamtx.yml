@@ -1,0 +1,15 @@
+logLevel: info
+api: no
+rtsp: yes
+rtspAddress: :8554
+rtmp: yes
+rtmpAddress: :1935
+srt: yes
+srtAddress: :8890
+webrtc: no
+hls: no
+pathDefaults:
+  record: no
+paths:
+  game:
+  all_others:

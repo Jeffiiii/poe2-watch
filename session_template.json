@@ -1,0 +1,35 @@
+{
+  "session_id": "poe2_2026-10-02_test",
+  "date": "2026-10-02",
+  "game": "Path of Exile 2 (Steam)",
+  "game_build": {
+    "steam_buildid": "25568465",
+    "steam_last_updated": "2026-09-27",
+    "patch": "FILL (游戏内 ESC 左下角版本号)"
+  },
+  "league": "Forbidden Rites",
+  "character": {
+    "name": "GSMZZG",
+    "ascendancy": "Gemling Legionnaire",
+    "build": "ky 的 Arc Totem"
+  },
+  "loot_filter": {
+    "source": "FilterBlade",
+    "strictness": "Uber Strict",
+    "note": "数据集中途不要换",
+    "file": "uberstrict.filter"
+  },
+  "content": "FILL (剧情章节 / 地图 / Boss / 藏身处交易 等)",
+  "capture": {
+    "source": "OBS 32.2.2 Window Capture (WGC)",
+    "canvas": "2560x1600",
+    "output": "1920x1200@30",
+    "video": "NVENC HEVC VBR 10M/16M P6 hq keyint 2s",
+    "audio": "track1 game (process capture), track2 mic",
+    "container": "hybrid_mp4, split 30 min",
+    "marker_hotkey": "Mouse4(后退侧键) = 我会在这里说一句",
+    "profile": "poe2"
+  },
+  "files": [],
+  "notes": ""
+}
